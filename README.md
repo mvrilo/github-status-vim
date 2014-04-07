@@ -10,7 +10,7 @@ e.g.
 
 ## Requirements
 
- - [webapi-vim](https://github.com/mattn/webapi-vim)
+ - Python or [webapi-vim](https://github.com/mattn/webapi-vim)
 
 ## Author
 
