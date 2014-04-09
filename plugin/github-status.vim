@@ -1,3 +1,8 @@
+if exists('g:github_status') && g:github_status
+  finish
+endif
+let g:github_status = 1
+
 let s:url = "https://status.github.com/api/last-message.json"
 
 function! GithubStatus()
